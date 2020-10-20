@@ -22,8 +22,6 @@ These kick off a series of background processing tasks through both SNS and Dyna
 
 We will use this demo app to demonstrate various problems you can run into in a production environment and how you can go about debugging them.
 
-## Exercises
-
 <details>
 <summary><b>Clone the demo app repo</b></summary><p>
 
