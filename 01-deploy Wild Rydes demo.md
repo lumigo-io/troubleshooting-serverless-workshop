@@ -25,6 +25,10 @@ We will use this demo app to demonstrate various problems you can run into in a 
 <details>
 <summary><b>Clone the demo app repo</b></summary><p>
 
+As a first step, we'll deploy the demo app to your AWS account and then see how we can debug different problems with Lumigo.
+
+**RECOMMENDATION**: you shouldn't deploy this to your production AWS account. Use your personal account, or a playground account.
+
 1. First, clone this repo locally:
 
 `https://github.com/lumigo-io/troubleshooting-serverless-workshop-demo`
