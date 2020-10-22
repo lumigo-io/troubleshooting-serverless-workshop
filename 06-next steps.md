@@ -49,3 +49,5 @@ The most important of which is the [lumigo-cli](https://www.npmjs.com/package/lu
 * tail CloudWatch logs
 
 * switch between AWS CLI profiles
+
+![heitor](./images/mod06-heitor.png)
