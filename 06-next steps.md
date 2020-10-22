@@ -29,3 +29,23 @@ You can do that in the [Team Management page](https://platform.lumigo.io/users).
 ![users](./images/mod06-lumigo-users.png)
 
 For more information, please visit the Lumigo [docs](https://docs.lumigo.io/docs).
+
+# lumigo-cli
+
+Besides the core Lumigo platform, we also have a number of popular open source tools you can use for free.
+
+The most important of which is the [lumigo-cli](https://www.npmjs.com/package/lumigo-cli), a CLI tool that simplifies a lot of your daily serverless tasks, e.g.
+
+* powertuning a Lambda function to right-size its memory setting
+
+* analyze Lambda cold starts
+
+* analyze Lambda costs
+
+* replay SQS messages from a DLQ to SQS/SNS/Kinesis
+
+* tail events in SNS/SQS/Kinesis/DynamoDB/EventBridge
+
+* tail CloudWatch logs
+
+* switch between AWS CLI profiles
